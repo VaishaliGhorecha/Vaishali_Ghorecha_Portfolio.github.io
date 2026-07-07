@@ -79,9 +79,17 @@
                         <li class="nav-item">
                             <a class="nav-link px-lg-3" href="#education">Education</a>
                         </li>
-						<li class="nav-item">
-                            <a class="nav-link px-lg-3" href="#work experience">Work Experience</a>
+			<li class="nav-item">
+                            <a class="nav-link px-lg-3" href="#experience">Work Experience</a>
                         </li>
+			<li class="nav-item">
+                            <a class="nav-link px-lg-3" href="https://drive.google.com/file/d/1oHEDZAbQE_-SnxYjkFpYKHObU5rIucz5/view?usp=sharing" target="_blank" class="btn">
+    Download Resume
+</a>
+
+                        </li>
+
+
                     </ul>
                 </div>
             </nav>
@@ -112,7 +120,7 @@
               <h1>Hey! I am Vaishali Ghorecha<br>
                 <span class="highlight"> Data Scientist & Data Analyst (3+ Years Experience)</span>
               </h1>
-              <p>A motivated Data Scientist & Analyst with 3 years of hands-on experience in Python, SQL, Power BI, Tableau, Advanced Excel, Google Looker Studio, Machine Learning (Supervised & Unsupervised), Data Visualization, Data Modeling, Data Wrangling, and end-to-end project development. Skilled in building dashboards, analyzing datasets, and developing predictive models that deliver real-world business insights. Eager to apply analytical thinking, problem-solving, and technical skills to contribute to data-driven decision-making in a growing organization. </p>
+              <p>Data & BI Analyst | Data Scientist with 3 years of experience delivering data-driven business solutions using Power BI, SQL, Python, Excel, and ETL. Expertise in developing interactive dashboards, automating reporting processes, analyzing large datasets, and delivering KPI-driven insights that reduced manual reporting by 75%, increased revenue by 15%, and contributed to 20% sales growth. Immediately available and looking opportunity for Data Analyst, Business Intelligence Analyst, Power BI Developer, and Data Scientist opportunities across the UAE with valid residence visa. </p>
               <a href="mailto:vaishaligajjar17@gmail.com" class="btn">Get in Touch</a>
             </div>
           </div>
@@ -144,13 +152,17 @@
                 <div class="skill-item"><img src="./assets/images/excel.png" class="rounded-circle" width="60" height="60"><div class="mt-2 text-center">Excel</div></div>
                 <div class="skill-item"><img src="./assets/images/statistics.png" class="rounded-circle" width="60" height="60"><div class="mt-2 text-center">Statistics</div></div>
                 <div class="skill-item"><img src="./assets/images/machine learning.png" class="rounded-circle" width="60" height="60"><div class="mt-2 text-center">Machine Learning</div></div>
-                <div class="skill-item"><img src="./assets/images/deep learning.png" class="rounded-circle" width="60" height="60"><div class="mt-2 text-center">Deep Learning</div></div>
- 		<div class="skill-item"><img src="./assets/images/tensorflow.png" class="rounded-circle" width="60" height="60"><div class="mt-2 text-center">TensorFlow</div></div>
-		<div class="skill-item"><img src="./assets/images/yolo.png" class="rounded-circle" width="60" height="60"><div class="mt-2 text-center">YOLO</div></div>
-		<div class="skill-item"><img src="./assets/images/algorithms.png" class="rounded-circle" width="60" height="60"><div class="mt-2 text-center">Algorithms</div></div>
+                <div class="skill-item"><img src="./assets/images/yolo.png" class="rounded-circle" width="60" height="60"><div class="mt-2 text-center">YOLO</div></div>
+		<div class="skill-item"><img src="./assets/images/algorithms.png" class="rounded-circle" width="60" height="60"><div class="mt-2 text-center">Supervised/Unsupervised ML</div></div>
 		<div class="skill-item"><img src="./assets/images/DAX.png" class="rounded-circle" width="60" height="60"><div class="mt-2 text-center">DAX</div></div>
-		<div class="skill-item"><img src="./assets/images/computer vision.png" class="rounded-circle" width="60" height="60"><div class="mt-2 text-center">Computer Vision</div></div>
-                <!-- Duplicate for seamless loop -->
+		<div class="skill-item"><img src="./assets/images/Excel Automation.jpg" class="rounded-circle" width="60" height="60"><div class="mt-2 text-center">Excel Automation</div></div>
+<div class="skill-item"><img src="./assets/images/Power Query.jpg" class="rounded-circle" width="60" height="60"><div class="mt-2 text-center">Power Query</div></div>
+<div class="skill-item"><img src="./assets/images/PostgreSQL.jpg" class="rounded-circle" width="60" height="60"><div class="mt-2 text-center">PostgreSQL</div></div>
+
+
+
+
+		  <!-- Duplicate for seamless loop -->
                 <div class="skill-item"><img src="./assets/images/python.svg" class="rounded-circle" width="60" height="60"><div class="mt-2 text-center"> Python</div></div>
                 <div class="skill-item"><img src="./assets/images/mysql.svg" class="rounded-circle" width="60" height="60"><div class="mt-2 text-center">MySQL</div></div>
                 <div class="skill-item"><img src="./assets/images/sql.jpg" class="rounded-circle" width="60" height="60"><div class="mt-2 text-center">SQL</div></div>
@@ -159,12 +171,20 @@
                 <div class="skill-item"><img src="./assets/images/excel.png" class="rounded-circle" width="60" height="60"><div class="mt-2 text-center">Excel</div></div>
                 <div class="skill-item"><img src="./assets/images/statistics.png" class="rounded-circle" width="60" height="60"><div class="mt-2 text-center">Statistics</div></div>
 		<div class="skill-item"><img src="./assets/images/machine learning.png" class="rounded-circle" width="60" height="60"><div class="mt-2 text-center">Machine Learning</div></div>
-                <div class="skill-item"><img src="./assets/images/deep learning.png" class="rounded-circle" width="60" height="60"><div class="mt-2 text-center">Deep Learning</div></div>
- 		<div class="skill-item"><img src="./assets/images/tensorflow.png" class="rounded-circle" width="60" height="60"><div class="mt-2 text-center">TensorFlow</div></div>
-		<div class="skill-item"><img src="./assets/images/yolo.png" class="rounded-circle" width="60" height="60"><div class="mt-2 text-center">YOLO</div></div>
-		<div class="skill-item"><img src="./assets/images/algorithms.png" class="rounded-circle" width="60" height="60"><div class="mt-2 text-center">Algorithms</div></div>
+               	<div class="skill-item"><img src="./assets/images/yolo.png" class="rounded-circle" width="60" height="60"><div class="mt-2 text-center">YOLO</div></div>
+		<div class="skill-item"><img src="./assets/images/algorithms.png" class="rounded-circle" width="60" height="60"><div class="mt-2 text-center">Supervised/Unsupervised ML</div></div>
 		<div class="skill-item"><img src="./assets/images/DAX.png" class="rounded-circle" width="60" height="60"><div class="mt-2 text-center">DAX</div></div>
-		<div class="skill-item"><img src="./assets/images/computer vision.png" class="rounded-circle" width="60" height="60"><div class="mt-2 text-center">Computer Vision</div></div>
+		<div class="skill-item"><img src="./assets/images/Excel Automation.jpg" class="rounded-circle" width="60" height="60"><div class="mt-2 text-center">Excel Automation</div></div>
+<div class="skill-item"><img src="./assets/images/Power Query.jpg" class="rounded-circle" width="60" height="60"><div class="mt-2 text-center">Power Query</div></div>
+<div class="skill-item"><img src="./assets/images/PostgreSQL.jpg" class="rounded-circle" width="60" height="60"><div class="mt-2 text-center">PostgreSQL</div></div>
+
+
+
+
+
+
+
+		
 		<!-- Duplicate for seamless loop -->
                 <div class="skill-item"><img src="./assets/images/python.svg" class="rounded-circle" width="60" height="60"><div class="mt-2 text-center"> Python</div></div>
                 <div class="skill-item"><img src="./assets/images/mysql.svg" class="rounded-circle" width="60" height="60"><div class="mt-2 text-center">MySQL</div></div>
@@ -174,12 +194,17 @@
                 <div class="skill-item"><img src="./assets/images/excel.png" class="rounded-circle" width="60" height="60"><div class="mt-2 text-center">Excel</div></div>
                 <div class="skill-item"><img src="./assets/images/statistics.png" class="rounded-circle" width="60" height="60"><div class="mt-2 text-center">Statistics</div></div>
 		<div class="skill-item"><img src="./assets/images/machine learning.png" class="rounded-circle" width="60" height="60"><div class="mt-2 text-center">Machine Learning</div></div>
-                <div class="skill-item"><img src="./assets/images/deep learning.png" class="rounded-circle" width="60" height="60"><div class="mt-2 text-center">Deep Learning</div></div>
- 		<div class="skill-item"><img src="./assets/images/tensorflow.png" class="rounded-circle" width="60" height="60"><div class="mt-2 text-center">TensorFlow</div></div>
-		<div class="skill-item"><img src="./assets/images/yolo.png" class="rounded-circle" width="60" height="60"><div class="mt-2 text-center">YOLO</div></div>
-		<div class="skill-item"><img src="./assets/images/algorithms.png" class="rounded-circle" width="60" height="60"><div class="mt-2 text-center">Algorithms</div></div>
+                <div class="skill-item"><img src="./assets/images/yolo.png" class="rounded-circle" width="60" height="60"><div class="mt-2 text-center">YOLO</div></div>
+		<div class="skill-item"><img src="./assets/images/algorithms.png" class="rounded-circle" width="60" height="60"><div class="mt-2 text-center">Supervised/Unsupervised ML</div></div>
 		<div class="skill-item"><img src="./assets/images/DAX.png" class="rounded-circle" width="60" height="60"><div class="mt-2 text-center">DAX</div></div>
-		<div class="skill-item"><img src="./assets/images/computer vision.png" class="rounded-circle" width="60" height="60"><div class="mt-2 text-center">Computer Vision</div></div>
+		<div class="skill-item"><img src="./assets/images/Excel Automation.jpg" class="rounded-circle" width="60" height="60"><div class="mt-2 text-center">Excel Automation</div></div>
+<div class="skill-item"><img src="./assets/images/Power Query.jpg" class="rounded-circle" width="60" height="60"><div class="mt-2 text-center">Power Query</div></div>
+<div class="skill-item"><img src="./assets/images/PostgreSQL.jpg" class="rounded-circle" width="60" height="60"><div class="mt-2 text-center">PostgreSQL</div></div>
+
+
+
+
+
 
               </div>
             </div>
@@ -196,10 +221,12 @@
                <!-- Project 1 -->
                 <div class="col-md-6 col-lg-4">
 	          <div class="project-card p-3 shadow-sm rounded">
-				  <img src="assets/images/project5.png" alt="UAE Real Estate Analysis" class="img-fluid mb-2">
+				  <img src="assets/images/project5.png" alt="UAE Real Estate Market Analysis | SQL, Power BI" class="img-fluid mb-2">
 	           
-	            <h4 class="project-title">UAE Real Estate Analysis</h4>
-	            <p class="project-desc">Designed an end-to-end real estate analytics solution to evaluate UAE property market performance. Extracted, cleaned, and analyzed transaction data to identify high-performing locations, price fluctuations, and demand trends. Developed interactive Power BI dashboards featuring KPIs such as total property price, average property price, transaction volume, property type distribution, % of occupationcy, and location-based market analysis.</p>
+	            <h4 class="project-title">UAE Real Estate Market Analysis </h4>
+              <h5> <small class="text-muted">SQL | Power BI</small> </h5>
+
+	            <p class="project-desc">Developed an interactive Power BI dashboard analyzing Property Value, Average Price, Occupancy Rate, Property Demand, and Market Share across UAE cities. Identified Dubai as the leading real estate market, contributing 68% of the total property value and investment activity. Discovered that Villas accounted for 54% of the total market value, making them the dominant property type. Analyzed market trends and found a 22% increase in property value/investment activity during 2024 compared to the previous period. Built dynamic dashboards using Power BI, Power Query, DAX, and Data Modeling with drill-through, slicers, KPI cards, and interactive visualizations.</p>
 	          	<a href="https://github.com/VaishaliGhorecha/UAE-Real-Estate-Market-Analysis" class="btn btn-outline-primary btn-sm">View Project</a>
 
 			  </div>
@@ -207,9 +234,11 @@
 	      <!-- Project Card 2 -->
 	       <div class="col-md-6 col-lg-4">
 	         <div class="project-card p-3 shadow-sm rounded">
-	            <img src="assets/images/project2.png" alt="Disease Prediction Model" class="img-fluid mb-2">
-                    <h4 class="project-title">Disease Prediction Model</h4>
-                    <p class="project-desc">Built a healthcare classification system to predict diseases such as diabetes, heart disease,  or cancer using patient health parameters (age, glucose level, blood pressure, BMI, insulin, etc.). Implemented and 	compared multiple algorithms including Decision Tree, SVC, and Naive Bayes, optimized using Grid Search CV, and  achieved 77.6% accuracy with improved model reliability through feature engineering and scaling.</p>
+	            <img src="assets/images/project2.png" alt="Credit Card Fraud Detection | Python, Machine Learning" class="img-fluid mb-2">
+                    <h4 class="project-title">Credit Card Fraud Detection</h4> 
+                     
+   <h5> <small class="text-muted">Python | Machine Learning</small> </h5>
+                    <p class="project-desc">Built a Credit Card Fraud Detection model to identify fraudulent transactions using machine learning techniques.Performed data cleaning, preprocessing, feature engineering, and exploratory data analysis (EDA) to improve model performance.Trained and evaluated multiple machine learning models including Logistic Regression, Decision Tree, Random Forest, and XG-Boost (the models have been actually used).Utilized Python, Pandas, NumPy, Scikit-learn, Matplotlib, and Seaborn for data analysis, visualization, and model development.</p>
 	             <a href="https://github.com/VaishaliGhorecha/Disease-Prediction-model-Machine-Learning" class="btn btn-outline-primary btn-sm">View Project</a>
                  </div>
               </div>
@@ -218,7 +247,10 @@
                   <div class="project-card p-3 shadow-sm rounded">
            	    <img src="assets/images/project3.png" alt="Amazon Global Supermarket Dashboard" class="img-fluid mb-2">
                     <h4 class="project-title">Amazon Sales Dashboard</h4>
-            	    <p class="project-desc">Consolidated and transformed global sales of supermarket store data using Power Query to build a clean, structured data model. Designed a visually rich Power BI dashboard showcasing key KPIs such as revenue, 			profit ratio, and year-over-year growth. Utilized DAX measures to evaluate product performance, regional sales 				patterns, and profitability trends, enabling clear and actionable business insights.</p>
+		<h5> <small class="text-muted">Python | SQL | Power BI </small> </h5>
+
+            	    <p class="project-desc">Analyzed 178.31K product units sold with an average customer KPI rating of 3.97/5 (79.4%). Monitored 1,079 product returns, enabling identification of return trends and customer satisfaction issues.Identified Consumer Segment as the largest revenue contributor, accounting for 51.48% of total sales, followed by Corporate (30.25%) and Home Office (18.27%).Evaluated market performance, with Asia Pacific contributing 31.98% of total sales, followed by Europe (26.00%), USCA (18%), LATAM (17.12%), and Africa (7%).
+</p>
             	    <a href="https://github.com/VaishaliGhorecha/Amazon_Global_Supermarket_Dashboard" class="btn btn-outline-primary btn-sm">View  Project</a>
 	          </div>
                 </div>
@@ -227,6 +259,8 @@
 	  	  <div class="project-card p-3 shadow-sm rounded">
             	     <img src="assets/images/project4.png" alt="Online Store Hub Annual Report" class="img-fluid mb-2">
                      <h4 class="project-title">Online Stores Dashboard</h4>
+ <h5> <small class="text-muted">Excel | Power BI </small> </h5>
+
               	     <p class="project-desc">Processed and organized online sales data using advanced Excel functions, data cleaning techniques, and conditional formatting. Created a dynamic annual report featuring Pivot Tables, slicers, and 			      interactive visual charts to analyze performance by age group, gender, and identified key trends, high-performing segments, enabling clear, actionable insights for business decision-making.</p>
 	      	     <a href="https://github.com/VaishaliGhorecha/Online-E-Commerce-Sales-Report-" class="btn btn-outline-primary btn-sm">View Project</a>
 	          </div>
@@ -236,6 +270,8 @@
 	 	  <div class="project-card p-3 shadow-sm rounded">
                     <img src="assets/images/project1.jpg" alt="Credit Card Fraud Detection" class="img-fluid mb-2">
           	    <h4 class="project-title">Credit Card Fraud Detection</h4>
+          <h5> <small class="text-muted">Python | Machine Learning</small> </h5>
+
          	    <p class="project-desc">Developed a machine learning model using Logistic Regression to classify fraudulent vs. legitimate transactions. Enhanced performance through parameter tuning, feature scaling, and class-imbalance handling to improve model performance, achieving over 90% accuracy with strong precision-recall results to Focus on minimizing false negatives to reduce financial risk and improve transaction security.</p>
 	             <a href="https://github.com/VaishaliGhorecha/Credit-Card-Fraud-Detection-Machine-Learning" class="btn btn-outline-primary btn-sm">View Project</a>
 
@@ -246,45 +282,19 @@
 	 	    <div class="project-card p-3 shadow-sm rounded">
                         <img src="assets/images/project6.png" alt="Price Comparison Model" class="img-fluid mb-2">
           		<h4 class="project-title">Price Comparison Model</h4>
+                  <h5> <small class="text-muted">Python | SQL | Machine Learning</small> </h5>
+
           		<p class="project-desc">Developed a web-scraping and machine learning–based system to compare product prices across multiple e-commerce platforms. Automated data extraction, cleaned and standardized product attributes, and 	applied matching algorithms to identify the same products across different websites. Delivered real-time price 				insights with clear visualizations to help users find the best deals.</p>
           		<a href="https://github.com/VaishaliGhorecha/Price-Comparison-System" class="btn btn-outline-primary btn-sm">View Project</a>
 		     </div>
                   </div>
 
-		<!-- Project Card 7 -->
-	         <div class="col-md-6 col-lg-4">
-	 	    <div class="project-card p-3 shadow-sm rounded">
-                        <img src="assets/images/project7.png" alt="Netflix Stock Market Dashboard" class="img-fluid mb-2">
-          		<h4 class="project-title">Netflix Stock Market Dashboard</h4>
-          		<p class="project-desc">Designed an interactive Power BI dashboard to analyze Netflix stock performance over time. 			Included key metrics such as closing price trends, trading volume, moving averages, and volatility insights to 				help visualize market behavior and investment patterns.</p>
-          		<a href="https://github.com/VaishaliGhorecha/Netflix_Stockmarket_Dashboard" class="btn btn-outline-primary btn-sm">			View Project</a>
-		     </div>
-                  </div>
-
-		<!-- Project Card 8 -->
-	         <div class="col-md-6 col-lg-4">
-	 	    <div class="project-card p-3 shadow-sm rounded">
-                        <img src="assets/images/project8.jpg" alt="Speech Convertor with Sentiment Analysis" class="img-fluid mb-2">
-          		<h4 class="project-title">Speech Convertor with Sentiment Analysis</h4>
-          		<p class="project-desc">Built a real-time speech converter integrated with NLP-based sentiment analysis, enabling emotion classification (positive/neutral/negative) from user audio input. Utilized speech recognition, text preprocessing, polarity scoring, and interactive UI for instant feedback.</p>
-          		<a href="https://github.com/VaishaliGhorecha/Speech-Converter-with-Sentiment-Analysis" class="btn btn-outline-primary btn-sm"> View Project</a>
-		     </div>
-                  </div>
-
-		<!-- Project Card 9 -->
-	         <div class="col-md-6 col-lg-4">
-	 	    <div class="project-card p-3 shadow-sm rounded">
-                        <img src="assets/images/project9.jpg" alt="IPL Analysis Dashboard" class="img-fluid mb-2">
-          		<h4 class="project-title">IPL Analysis Dashboard</h4>
-          		<p class="project-desc">Developed an interactive IPL Dashboard in Power BI to analyze team and player performance across multiple seasons. Used DAX measures, advanced charts, and slicers to visualize match outcomes, top players, venue trends, and season statistics. Delivered a user-friendly dashboard that helps identify patterns and data-driven insights in IPL history.</p>
-          		<a href="https://github.com/VaishaliGhorecha/IPL-Analysis-Dashboard" class="btn btn-outline-primary btn-sm">			View Project</a>
-		     </div>
-                  </div>
+	
 <section id="education">
 <h2 class="section-title text-center mb-4">Education</h2>
- 	   <div class="education-item">
+ 	    	   <div class="education-item">
             <div class="education-content">
-	       <h3>Bachelor of Computer Applications (BCA)</h3>
+	       <h4>Bachelor of Computer Applications (BCA)</h4>
                <p>GLS University, Ahmedabad, India</p>
                <p>2009 – 2012</p>
            </div>
@@ -293,14 +303,14 @@
 <section id="certificates">
 <h2 class="section-title text-center mb-4">Certificate</h2>
         <div class="certificate-item">
-           <h3>Microsoft Power BI Data Analyst Professional Certificate</h3>
+           <h4>Microsoft Power BI Data Analyst Professional Certificate</h4>
            <p>Coursera | In Progress</p>
            <a href="certificate-link.pdf" target="_blank">View Certificate</a>
         </div>
    
     <div class="certificate-item">
         <div class="certificate-content">
-            <h3>Data Analytics with Python</h3>
+            <h4>Data Analytics with Python</h4>
             <p>IBM</p>
             <a href="certificates/IBM DA0101EN Certificate _ Cognitive Class.pdf" target="_blank">
 View Certificate </a>
@@ -309,7 +319,7 @@ View Certificate </a>
     </div>
      <div class="certificate-item">
         <div class="certificate-content">
-            <h3>Data Science Full Stack with Generative AI</h3>
+            <h4>Full Stack Data Science & Data Analysis with Generative AI</h4>
             <p>The i-Scale, India</p>
             
 
@@ -322,6 +332,102 @@ View Certificate</a>
 </section>
 
 <!-- certificate Section End -->
+
+<section id="experience">
+<h2 class="section-title text-center mb-4">Work Experience</h2>
+ 	   <div class="experience-item">
+            <div class="experience-content">
+
+        <h4>Data Analyst</h4>
+        <p><strong>SkyBrisk Technologies | Ahmedabad, India | On-site</strong></p>
+        <p>April 2024 – May 2026</p>
+
+        <ul>
+            <li>Built Power BI dashboards (DAX, Power Query, ETL) for IT client’s sales, volume and product KPIs, giving management clear weekly and monthly visibility they did not have before.
+</li>
+            <li>Analyzed marketing field-force and customer visit data using SQL, Excel, Python (Pandas), and Power BI, uncovering actionable insights that contributed to a 15% month-on-month revenue increase.
+</li>
+            <li>Automated recurring reports using VBA and Excel automation, reducing manual effort by 75%, saving 20+ hours per week, and improving reporting accuracy.
+</li>
+            <li>Ran requirements sessions with sales, product and marketing teams to gather business requirements and translate them into dashboards, reports, and data-driven solutions that supported strategic decision-making. The business recorded a 20% uplift in sales volume that quarter.
+</li>
+        </ul>
+    </div>
+
+  </div>
+
+ <div class="experience-item">
+  <div class="experience-content">
+
+
+       <h4>Associate Data Analyst</h4>
+        <p><strong>i-Scale Solutions | Banglore, India | On-Site</strong></p>
+        <p>Aug 2022 – March 2024</p>
+
+        <ul>
+            <li>Analyzed customer, lead, and sales data from URVA CRM to generate actionable insights, improving reporting efficiency by 20%.
+
+</li>
+            <li>Developed interactive Power BI dashboards and automated reports, reducing manual reporting efforts by 30% and improving data accessibility for team.
+
+</li>
+            <li>Designed analytical reports and visualizations that improved teams’ engagement and reduced decision-making turnaround time by 15% of those customers.
+
+</li>
+      
+
+  </div>
+</div>
+
+<div class="experience-item">
+  <div class="experience-content">
+
+
+        <h4>Administrative Executive</h4>
+        <p><strong>V-Mart Retail Pvt Ltd | Ahmedabad, India | On-Site</strong></p>
+        <p>Nov 2018 – Jan 2022</p>
+
+        <ul>
+            <li>Prepared and maintained daily, weekly, and monthly MIS reports to monitor store performance, sales, inventory, and operational KPIs.
+
+</li>
+            <li>Analyzed sales and inventory data using Advanced Excel (Pivot Tables, VLOOKUP, Power Query). Monitored stock levels and assisted with inventory reconciliation and reporting.
+
+</li>
+            <li>Ensured timely submission of operational and performance reports to senior management.
+
+</li>
+           
+  </div>
+</div>
+
+<div class="experience-item">
+ <div class="experience-content">
+
+        <h4>Administrative Assistant</h4>
+        <p><strong>Exide Life Insurance Pvt Ltd | Ahmedabad, India | On-Site</strong></p>
+        <p>March 2015 – July 2018</p>
+
+        <ul>
+            <li>Maintained accurate documentation, filing systems, and administrative records.
+</li>
+            <li>Assisted in scheduling meetings, preparing presentations, and handling correspondence.
+</li>
+            <li>Monitored policy issuance, renewals, and operational activities.
+</li>
+            <li>Managed insurance policy data, customer records, and branch performance reports.
+</li>
+
+  </div>
+</div>
+
+</section>
+
+
+
+<a href="https://drive.google.com/file/d/1oHEDZAbQE_-SnxYjkFpYKHObU5rIucz5/view?usp=sharing" target="_blank" class="btn">
+    Download Resume
+</a>
 
 
 <!-- Footer Section Start -->
