@@ -332,7 +332,7 @@ h1 {
     background: var(--default_color);
     border-radius: 10px;
     padding: 30px;
-    box-shadow: 4px 4px 20px 8px rgba(66, 153, 158, 0.07);
+    box-shadow: 4px 4px 20px 8px #2f9ea8);
     position: absolute;
     bottom: 0;
     right: 0;
@@ -603,7 +603,7 @@ h1 {
     background-position: center;
     transition: 0.4s all;
     border-radius: 6px;
-    box-shadow: 4px 4px 15px 0px rgba(24, 28, 49, 0.05);
+    box-shadow: 4px 4px 15px 0px #2f9ea8);
 }
 .d2c_grid_item:nth-child(1) .fancybox {
     background-image: url(../images/portfolio_one.jpg);
@@ -848,7 +848,8 @@ iframe {
 /* Contact Section End */
 /* Education Section Start */
 #education {
-    padding: 70px 1% 10px;
+    padding: 96px 4% 10px;
+  
 }
 .education-item {
     left: 20px;
@@ -858,41 +859,44 @@ iframe {
     background: #fff;
     padding: 10px;
     margin-bottom: 15px;
-    border-left: 5px solid #2f9ea8;
-    box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+    border-left: 5px solid rgba(0,0,0,0.1);
+    box-shadow: 0 2px 10px #2f9ea8;
 }
 /* Education Section End */
 /* Certification Section Start */
 #certifications {
-    padding: 80px 5% 50px;
-    margin-top: 100px;
+    padding: 0px 1% 0px;
+    
 }
 .certificate-item {
-    right: 5px;
-    width: 103;
+    margin: 3px 35px;
+    width: 95%;
+    max-width: 100%;
     background: #fff;
     padding: 10px;
     margin-bottom: 15px;
-    margin-top: 0px;
-    border-left: 5px solid #2f9ea8;
-    box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+    border-left: 5px solid rgba(0,0,0,0.1);
+    box-shadow: 0 2px 10px #2f9ea8;
 }
 /* Certification Section End */
 #experience {
-    padding: 2px 1%;
+   padding: 0px 3% 20px;
+   
 }
 .experience-item {
-    right: 3px;
-    width: 105;
+    left: 10px;
+    right: 1px;
+    width: 100%;
+    max-width: 100%;
     background: #fff;
-    padding: 20px;
-    margin-bottom: 20px;
-    border-left: 5px solid #2f9ea8;
-    box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+    padding: 10px;
+    margin-bottom: 15px;
+    border-left: 5px solid rgba(0,0,0,0.1);
+    box-shadow: 0 2px 10px #2f9ea8;
 }
 .experience-item h3 {
-    color: #004d4d;
-    margin-bottom: 10px;
+    color: rgba(0,0,0,0.1);
+    margin-bottom: 20px;
 }
 
 /* Footer Section Start */
