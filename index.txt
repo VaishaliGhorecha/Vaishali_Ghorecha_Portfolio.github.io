@@ -6,7 +6,7 @@
 
     <!-- Open Graph / LinkedIn Meta Tags -->
     <meta property="og:title" content="Vaishali Ghorecha Portfolio" />
-    <meta property="og:description" content= "Data Scientist | Data Analyst (3+ Years Experience)| Power BI Developer | BCA | Hands on experience in real time projects in scalable data, Python, SQL, Power BI, Tableau, Advanced Excel, ML, and analytics automation. Explore my projects and skills!" /> 
+    <meta property="og:description" content= "Data Scientist | Data Analyst (3 Years Experience)| Power BI Developer | BCA | Hands on experience in real time projects in scalable data, Python, SQL, Power BI, Tableau, Advanced Excel, ML, and analytics automation. Explore my projects and skills!" /> 
     <meta property="og:url" content="https://vaishalighorecha.github.io/Vaishali_Ghorecha_Portfolio.github.io" />
     <meta name="image" property="og:image" content="https://vaishalighorecha.github.io/Vaishali_Ghorecha_Portfolio.github.io/assets/images/Home_Page.png">
     <meta property="og:type" content="Website">
@@ -118,7 +118,7 @@
             <!-- Intro Text Content -->
             <div class="intro">
               <h1>Hey! I am Vaishali Ghorecha<br>
-                <span class="highlight"> Data Scientist & Data Analyst (3+ Years Experience)</span>
+                <span class="highlight"> Data Scientist & Data Analyst (3 Years Experience)</span>
               </h1>
               <p>Data & BI Analyst | Data Scientist with 3 years of experience delivering data-driven business solutions using Power BI, SQL, Python, Excel, and ETL. Expertise in developing interactive dashboards, automating reporting processes, analyzing large datasets, and delivering KPI-driven insights that reduced manual reporting by 75%, increased revenue by 15%, and contributed to 20% sales growth. Immediately available and looking opportunity for Data Analyst, Business Intelligence Analyst, Power BI Developer, and Data Scientist opportunities across the UAE with valid residence visa. </p>
               <a href="mailto:vaishaligajjar17@gmail.com" class="btn">Get in Touch</a>
